@@ -9,6 +9,8 @@ const App = () => {
             <Message text="Welcome to our website!" />
             <Message text="Enjoy your stay and explore our content." />
             <Message text="Contact us for more information!" />
+            <Button label="Click Me" /><Button label="Submit" /><Button label="Cancel"
+/>
             <Footer />
         </div>);
 };
